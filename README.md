@@ -1,4 +1,4 @@
-# Privilege-escalation-in-online-jewelry-website
+# Privilege-escalation-in-online-jewelry-website - CVE-2023-27777
 Vertical Privilege Escalation vulnerability found in Online Jewellery Store from Sourcecodester website.
 
 
