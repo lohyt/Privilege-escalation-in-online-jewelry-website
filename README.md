@@ -2,7 +2,7 @@
 Vertical Privilege Escalation vulnerability found in Online Jewellery Store from Sourcecodester website.
 
 
-Description: Vertical Privilege Escalation vulnerability found in Online Jewellery Store from Sourcecodester website.
+Description: A stored cross-site scripting (XSS) vulnerability in /index.php?page=category_list of Online Jewelry Shop v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Category Name parameter.
 
 [Additional Information] NA
 
